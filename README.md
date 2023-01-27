@@ -1,5 +1,8 @@
+# About
 
-# Welcome to your CDK Python project!
+This repository has POC code for standing up a Fargate cluster with the AWS AppConfig agent sidecar running.
+
+## Welcome to your CDK Python project!
 
 This is a blank project for CDK development with Python.
 
